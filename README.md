@@ -1,4 +1,4 @@
-# sonopos-client
+# BitLabs
 <<<<<<< HEAD
 
 ## Project setup
